@@ -8,9 +8,6 @@
 
 ## Demo
 
-[https://github-laziji.github.io][1]
-
-
 ## Plugin
 
 - Element (PC)
@@ -25,8 +22,7 @@
 
 ## Use Setup
 
-Clone ```https://github.com/GitHub-Laziji/GitHub-Laziji.github.io ```
-
+Clone `https://github.com/GitHub-Laziji/GitHub-Laziji.github.io`
 
 ## Develop
 
@@ -38,17 +34,8 @@ Clone ```https://github.com/GitHub-Laziji/GitHub-Laziji.github.io ```
 
     npm run build
 
-
 ## License
 
 Code licensed under the [Mozilla](LICENSE).
 
-------
-
-
-Author *Laziji*
-
-
-
-  [1]: https://github-laziji.github.io
-  [2]: https://github.com/GitHub-Laziji/GitHub-Laziji.github.io
+---
