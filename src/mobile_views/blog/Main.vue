@@ -59,7 +59,7 @@
             if (pageNumber) {
               this.query.pageNumber = pageNumber;
             }
-            if (result.length == 0) {
+            if (result.length === 0) {
               return;
             }
             for (let i = 0; i < result.length; i++) {

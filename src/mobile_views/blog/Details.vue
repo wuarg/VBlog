@@ -25,7 +25,7 @@
 </template>
 
 <script>
-  import { mapGetters } from 'vuex';
+  //   import { mapGetters } from 'vuex';
   import GistApi from '@/api/gist';
   export default {
     data() {

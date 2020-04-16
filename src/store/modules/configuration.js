@@ -57,6 +57,7 @@ const configuration = {
       if (window.XMLHttpRequest) {
         xmlhttp = new XMLHttpRequest();
       } else {
+        // eslint-disable-next-line no-undef
         xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
       }
       xmlhttp.open("GET", "../../../static/configuration.json", false);
